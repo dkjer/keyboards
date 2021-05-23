@@ -6,7 +6,7 @@
         "rows": 5,
         "cols": 15
     },
-    "lighting": "qmk_rgblight", 
+    "lighting": "qmk_rgblight",
     "customKeycodes": [
         {"name": "Toggle WinKey Lock", "title": "Toggle WinKey Lock", "shortName": "WinLock"}
     ],
@@ -50,7 +50,7 @@
         "1,8",
         "1,9",
         "1,10",
-        "1,13",
+        "1,11",
         "1,12",
         {
           "w": 1.5
